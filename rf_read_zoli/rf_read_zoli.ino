@@ -70,7 +70,7 @@ void loop()   /****** LOOP: RUNS CONSTANTLY ******/
        Serial.print("0");
        Serial.println(" ");
 
-
+       delay(6000); //6 seconds delay
     }
   }
   else
